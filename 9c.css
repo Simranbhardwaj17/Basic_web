@@ -1,0 +1,12 @@
+p {
+    font-style: sans-serif;
+    font: bold;
+}
+.survey-form {
+    border-color: black;
+    height: 80px;
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+}

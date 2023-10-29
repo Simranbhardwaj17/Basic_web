@@ -1,0 +1,26 @@
+img,p,button {
+    display:inline-block;
+    align-items: start;
+}
+img {
+    border-radius: 50%;
+    height: 40px;
+}
+p {
+    margin-right: 50px;
+}
+button {
+    background-color: rgb(91, 91, 252);
+    border-radius: 20px;
+    border: none;
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-weight : bold;
+}
+div {
+    height: 60px;
+    width: 350px;
+    border-color: black;
+    border: 1px solid #b0a7a7;;
+}

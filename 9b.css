@@ -1,0 +1,7 @@
+.green-circle {
+    background-color: green;
+    border-radius: 50px;
+    border-style: none;
+    height: 35px;
+    width: 35px;
+}
