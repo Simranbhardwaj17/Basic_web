@@ -1,0 +1,30 @@
+.subs-button {
+    background-color: rgb(181, 16, 16);
+    color: white;
+    border-radius: 2px;
+    padding: 10px 18px;
+    border: none;
+    margin-right: 10px;
+    font-size: 14px;
+}
+.join-button {
+    background-color: white;
+    color: rgb(18, 116, 201);
+    border-radius: 3px;
+    padding: 8px 18px;
+    border-color: rgb(18, 116, 201);
+    border-style: solid;
+    border-width: 2px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.tweet-button {
+    background-color: rgb(5, 140, 198);
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: none;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
