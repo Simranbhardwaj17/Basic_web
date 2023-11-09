@@ -1,0 +1,27 @@
+.get-started {
+    background-color: rgb(166, 68, 199);
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px 30px;
+}
+.get-started:hover {
+    cursor: pointer;
+    background-color: rgb(125, 39, 125);
+} 
+.download {
+    background-color: white;
+    color: rgb(125, 118, 118);
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px 30px;
+    border-color: rgb(133, 123, 123);
+    border-style: solid;
+    border-width: 1px;
+}
+.download:hover {
+    cursor: pointer;
+    color: white ;
+    background-color: rgb(89, 81, 81); 
+}
