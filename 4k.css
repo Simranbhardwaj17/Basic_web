@@ -1,0 +1,32 @@
+.one {
+    background-color: rgb(10, 97, 10);
+    color: white;
+    padding: 5px 11px;
+    border: none;
+    margin-right: 5px;
+}
+.one:hover {
+    padding: 5px 16px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.two {
+    background-color: rgb(10, 97, 10);
+    color: white;
+    padding: 5px 11px;
+    border: none;
+    margin-right: 5px;
+}
+.two:hover {
+    padding: 5px 16px;
+}
+.three {
+    background-color: rgb(10, 97, 10);
+    color: white;
+    padding: 5px 11px;
+    border: none;
+    margin-left: 5px;
+}
+.three:hover {
+    padding: 5px 16px;
+}
