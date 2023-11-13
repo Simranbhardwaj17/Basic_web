@@ -1,0 +1,25 @@
+p {
+    font-family: Verdana;
+}
+.course{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 3px;
+}
+.course-for {
+    color: rgb(107, 104, 104);
+    margin-top: 0px;
+    font-size: 15px;
+}
+.about {
+    width: 300px;
+}
+button {
+    background-color: rgb(25, 185, 25);
+    border: none;
+    color: white;
+    padding: 5px 11px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
