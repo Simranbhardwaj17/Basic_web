@@ -1,0 +1,11 @@
+h2,p {
+    font-family: Arial;
+}
+h2 {
+    margin-bottom: 5px;
+}
+p {
+    color: rgb(243, 18, 18);
+    margin-top: 0px;
+    font-style: italic;
+}
