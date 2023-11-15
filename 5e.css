@@ -1,0 +1,35 @@
+h1,button,p {
+    font-family: arial;
+    text-align: center;
+}
+.new {
+    color:rgb(236, 12, 12);
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.mac {
+    font-size: 20px;
+    margin: 0px;
+    font-weight:bold;
+    color: rgb(37, 32, 32);
+}
+h1 {
+    margin: 0px;
+}
+.price {
+    color: rgb(83, 77, 77);
+    margin-top: 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+button {
+    background-color: rgb(19, 103, 175);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 9px;
+    font-size: 11px;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+}
