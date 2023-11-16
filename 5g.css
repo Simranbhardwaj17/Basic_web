@@ -1,0 +1,22 @@
+p {
+    font-family: Arial;
+}
+.display-name {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 7px;
+}
+.tweet {
+    width: 500px;
+    margin-top: 0px;
+    margin-bottom: 22px;
+    line-height: 22px;
+}
+.username {
+    color: rgb(137, 133, 133);
+    font-size: 15px;
+    font-weight: lighter;
+}
+.tag {
+    color: rgb(119, 165, 205);
+}
