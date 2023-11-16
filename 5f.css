@@ -1,0 +1,27 @@
+p {
+    font-family:Arial ;
+}
+.price {
+    color: black;
+    font-size: 35px;
+    font-weight: lighter;
+    margin: 6px 4px;
+
+}
+.currency {
+    color: rgb(153, 142, 142);
+    font-size: 18px;
+    font-weight: lighter;
+}
+.high {
+    color: rgb(14, 202, 64);
+    margin: 7px 4px;
+}
+.estimation {
+    color: rgb(117, 101, 101);
+    margin: 9px 4px;
+
+}
+.low {
+    color: rgb(217, 57, 57);
+}
