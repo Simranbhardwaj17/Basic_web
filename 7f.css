@@ -1,0 +1,21 @@
+p {
+    color: rgb(78, 62, 62);
+    font-size: 14px;
+}
+.mail {
+    margin-bottom: 0px;
+}
+input {
+    border-color: black;
+    border-radius: 3px;
+    border: solid 2px;
+    padding: 3px 80px;
+    margin-top: 0px;
+}
+button {
+    background-color: rgb(10, 115, 207);
+    color: white;
+    border: none;
+    padding: 7px 125px;
+    border-radius: 20px;
+}
