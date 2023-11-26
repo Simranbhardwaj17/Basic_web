@@ -1,0 +1,27 @@
+input,
+button {
+    margin-bottom: 0x;
+}
+input {
+    border-radius: 4px;
+    border: solid 1px rgb(196, 188, 188);
+}
+.fname,
+.lname {
+    display: inline-block;
+    padding: 5px;
+}
+.mail {
+    display: block;
+    margin-top: 9px;
+    padding: 5px;
+}
+button {
+    background-color: rgb(43, 128, 203);
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 4px;
+    padding: 7px 62px;
+    margin-top: 9px;
+}
