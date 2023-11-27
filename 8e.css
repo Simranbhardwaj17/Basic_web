@@ -1,0 +1,31 @@
+p,input,button {
+    font-family: Arial ;
+    margin-bottom: 0px;
+}
+p {
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+input {
+    display: block;
+    color: black;
+    border: none;
+    padding: 9px 130px 11px 20px;
+    margin-top: 6px;
+    background-color:  rgb(191, 191, 191);
+}
+button {
+    padding: 11px 20px;
+    margin-top: 30px;
+    border: none;
+    margin-right: 10px;
+}
+.request-button {
+    background-color: black;
+    color: white;
+
+}
+.later-button {
+    color: black;
+    background-color: rgb(191, 191, 191);
+}
